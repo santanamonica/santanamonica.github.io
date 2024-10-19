@@ -19,7 +19,7 @@ University of California, Irvine - Irvine, CA
 ## Work Experience
 
 ### Disneyland Resort - Anaheim, CA
-PEER Program &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; (03/2024 - Present)
+PEER Program &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; (03/2024 - Present)
 * Conduct several 20-30 minute 1:1 visits with employees, to discuss their personal and professional goals 
 * Ensure employees feel supported in their roles and goals to maintain mental, emotional, and personal well-being
 * Keep track of completed visits and follow up with an email equipping them with resources and a postcard 
