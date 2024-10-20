@@ -1,5 +1,12 @@
 # Monica Santana
 ## Skills
+* Programming: Python, R, SQL
+* Data analysis
+* Data visualization
+    * Tableau
+    * Powerpoint
+* Machine Learning
+* Bilingual - Spanish (Conversational)
 
 
 ## Education                                                        	                                       
@@ -30,6 +37,7 @@ Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp
 *	Monitor store floor to identify over 100 guests in need of assistance and merchandise in need of replenishment
 *	Communicate with on-site locations to find desired items for guests, and provide quality customer service
 
+## Projects
 
-
-
+## Contact
+Email: Monica.Santana@disney.com
