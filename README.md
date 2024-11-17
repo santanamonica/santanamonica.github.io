@@ -38,8 +38,13 @@ Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp
 *	Communicate with on-site locations to find desired items for guests, and provide quality customer service
 
 ## Projects
-<b> 1. API Weather Forecast Predictor <b> /
+`1. API Weather Forecast Predictor`\
 This project uses Python and user input of a zip code or city and state name to tell you the weather conditions using an API call from OpenWeatherMap. The weather conditions include temperature, temp high, temp low, pressure, humidity, and cloud conditions. If the user inputs anything other than a valid zip code or city and state name, the user gets an error of "enter a valid zip code or city/state name". Once the weather conditions are shown, the user will be asked if they would like to enter another zip code or city/state name.
+
+`2. Divorce Rate Analysis with Visualizations`/
+This project using R includes 10 research questions for analysis to see what factors contribute to couple divorces the most. It uses simple linear regression and histograms to create insights using certain divorce factors. This can help couples who are on the brink of divorce or are going to couple counseling to see what factors may be affecting them. Couples are more likely to get divorced than stay married.
+
+3. 
 
 ## Contact
 Email: Monica.Santana@disney.com
