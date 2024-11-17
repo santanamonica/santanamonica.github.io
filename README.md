@@ -1,3 +1,5 @@
+# Portfolio
+# Monica Santana
 ## Skills
 * Programming: Python, R, SQL
 * Data analysis
@@ -70,7 +72,8 @@ Multiple assignments using big data infrastructures such as NiFi, Kafka, Spark, 
 `10. Stroke Predictions Using Machine Learning`\
 This project uses Python to evaluate risk factors and features used to make predictions if someone will have a stroke or non-stroke outcome. Visualizations are used to create meaningful insights on the top 3 most important features in the dataset.
 
-# Code for projects: https://github.com/santanamonica?tab=repositories
+## Code for projects: 
+https://github.com/santanamonica?tab=repositories
 
 ## Contact
 Email: Monica.Santana@disney.com
