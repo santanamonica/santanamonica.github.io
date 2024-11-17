@@ -56,6 +56,9 @@ Using Python to build a sentiment analysis model using a movie review dataset. L
 `6. Movie-Recommender-System`\
 This project uses Python and user input of a movie name from the dataset to recommend movies to watch with similarities. It narrowed the recommendations down to movies similar to the user input with over 100 ratings, so the movie watcher is guaranteed to get a highly rated film.
 
+`7. Type 2 Diabetes Predictions Using Machine Learning`\
+This project uses Python to evaluate features that may affect one getting type 2 diabetes and make predictions using logistic and random forest classifier models. Factors include medical and personal demographics of patients, alongside visualization analysis.
+
 
 ## Contact
 Email: Monica.Santana@disney.com
