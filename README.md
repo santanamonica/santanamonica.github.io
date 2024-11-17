@@ -2,14 +2,18 @@
 # Monica Santana
 ## Skills
 * Programming: Python, R, SQL
+* Data preparation
 * Data analysis
+* Machine Learning
+* Jupyter Notebook
 * Data visualization
     * Tableau
     * Powerpoint
     * Canva
-* Data preparation
-* Machine Learning
-* Jupyter Notebook
+* Microsoft Office
+    * Word
+    * Excel
+    * Powerpoint
 * Bilingual - Spanish (Conversational)
 
 
@@ -28,14 +32,14 @@ _University of California, Irvine_ - Irvine, CA
 
 ## Work Experience
 ### Disneyland Resort - Anaheim, CA
-PEER Program &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;(03/2024 - Present)
+PEER Program &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;(03/2024 - Present)
 * Conduct several 20-30 minute 1:1 visits with employees, to discuss their personal and professional goals 
 * Ensure employees feel supported in their roles and goals to maintain mental, emotional, and personal well-being
 * Keep track of completed visits and follow up with an email equipping them with resources and a postcard 
 *	Identify relevant mental health topics and secure licensed therapists to lead monthly seminars
 * Schedule these seminars during their shifts, promote seminars during visits, and advertise creating flyers
 
-Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;(09/2018 - Present)
+Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;(09/2018 - Present)
 *	Maintain current store, product, and promotional knowledge to drive consistent sales
 *	Operate cash register and assist with completing end-of-day counts and securing funds to prevent loss or theft
 *	Monitor store floor to identify over 100 guests in need of assistance and merchandise in need of replenishment
