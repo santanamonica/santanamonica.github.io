@@ -47,5 +47,8 @@ This project using R includes 10 research questions for analysis to see what fac
 `3. Divorce Rates Using-Statistical and Regression Analysis`\
 This project with Python looks at the highest causes of divorce using summary statistics, histograms, PMF, CDF, a normal probability plot, scatterplots, correlation tests, and simple linear regression. It can help couples going to marriage counseling with the insights this provides or fiances that want to better their relationship. Marriage is statistically less likely to succeed than divorce, so it is important to be informed before committing to a marriage.
 
+`4. Covid-19 Lockdown and Stress Analysis`\
+Using Python and SQL databases to join 3 different Covid datasets to see if the Covid pandemic provoked more stress with different factors. Factors include working remotely or in person, the number of Covid-19 cases, Covid-19 deaths, and sleep. 
+
 ## Contact
 Email: Monica.Santana@disney.com
