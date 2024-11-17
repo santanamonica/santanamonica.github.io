@@ -1,4 +1,4 @@
-# Portfolio
+## Portfolio
 # Monica Santana
 ## Skills
 * Programming: Python, R, SQL
