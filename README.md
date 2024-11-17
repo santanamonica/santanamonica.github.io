@@ -41,10 +41,11 @@ Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp
 `1. API Weather Forecast Predictor`\
 This project uses Python and user input of a zip code or city and state name to tell you the weather conditions using an API call from OpenWeatherMap. The weather conditions include temperature, temp high, temp low, pressure, humidity, and cloud conditions. If the user inputs anything other than a valid zip code or city and state name, the user gets an error of "enter a valid zip code or city/state name". Once the weather conditions are shown, the user will be asked if they would like to enter another zip code or city/state name.
 
-`2. Divorce Rate Analysis with Visualizations`/
+`2. Divorce Rate Analysis with Visualizations`\
 This project using R includes 10 research questions for analysis to see what factors contribute to couple divorces the most. It uses simple linear regression and histograms to create insights using certain divorce factors. This can help couples who are on the brink of divorce or are going to couple counseling to see what factors may be affecting them. Couples are more likely to get divorced than stay married.
 
-3. 
+`3. Divorce Rates Using-Statistical and Regression Analysis`\
+This project with Python looks at the highest causes of divorce using summary statistics, histograms, PMF, CDF, a normal probability plot, scatterplots, correlation tests, and simple linear regression. It can help couples going to marriage counseling with the insights this provides or fiances that want to better their relationship. Marriage is statistically less likely to succeed than divorce, so it is important to be informed before committing to a marriage.
 
 ## Contact
 Email: Monica.Santana@disney.com
