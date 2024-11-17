@@ -5,7 +5,10 @@
 * Data visualization
     * Tableau
     * Powerpoint
+    * Canva
+* Data preparation
 * Machine Learning
+* Jupyter Notebook
 * Bilingual - Spanish (Conversational)
 
 
@@ -42,10 +45,10 @@ Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp
 This project uses Python and user input of a zip code or city and state name to tell you the weather conditions using an API call from OpenWeatherMap. The weather conditions include temperature, temp high, temp low, pressure, humidity, and cloud conditions. Once the weather conditions are shown, the user will be asked if they would like to enter another zip code or city/state name.
 
 `2. Divorce Rate Analysis with Visualizations`\
-This project using R includes 10 research questions for analysis to see what factors contribute to couple divorces the most. It uses simple linear regression and histograms to create insights using certain divorce factors. This can help couples who are on the brink of divorce or are going to couple counseling to see what factors may be affecting them. Couples are more likely to get divorced than stay married.
+This project using R includes 10 research questions to see what factors contribute to couple divorces the most. It uses simple linear regression and histograms to create insights using the divorce factors. This can help couples who are on the brink of divorce or are going to couple counseling to see what factors may be affecting them. Couples are more likely to get divorced than stay married.
 
 `3. Divorce Rates Using-Statistical and Regression Analysis`\
-This project with Python looks at the highest causes of divorce using summary statistics, histograms, PMF, CDF, a normal probability plot, scatterplots, correlation tests, and simple linear regression. It can help couples going to marriage counseling with the insights this provides or fiances that want to better their relationship. Marriage is statistically less likely to succeed than divorce, so it is important to be informed before committing to a marriage.
+This project with Python looks at the highest causes of divorce using summary statistics, histograms, PMF, CDF, a normal probability plot, scatterplots, correlation tests, and simple linear regression. It can help couples going to marriage counseling with the insights this provides. Marriage is statistically less likely to succeed than divorce, so it is important to be informed before committing to a marriage.
 
 `4. Covid-19 Lockdown and Stress Analysis`\
 Using Python and SQL databases to join 3 different Covid datasets to see if the Covid pandemic provoked more stress with different factors. Factors include working remotely or in person, the number of Covid-19 cases, Covid-19 deaths, and sleep. 
@@ -64,6 +67,9 @@ This project uses a dashboard, infographic, and executive presentation to show t
 
 `9. Using Big Data Infrastructures`\
 Multiple assignments using big data infrastructures such as NiFi, Kafka, Spark, HBase, Solr, Hive, and HDFS. Learned how to create custom transformations, use SQL demands, Scala demands, PySpark demands, MapReduce, HBase data manipulation, create HBase tables, and create queries by filters. I also learned how to create producer and consumer tests.
+
+`10. Stroke Predictions Using Machine Learning`\
+This project uses Python to evaluate risk factors and features used to make predictions if someone will have a stroke or non-stroke outcome. Visualizations are used to create meaningful insights on the top 3 most important features in the dataset.
 
 
 ## Contact
