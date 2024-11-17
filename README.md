@@ -1,5 +1,3 @@
-![IMG_0889](https://github.com/user-attachments/assets/ef3471ec-443f-4c14-b29f-dc27588994ce)
-
 ## Portfolio
 # Monica Santana
 ## Skills
