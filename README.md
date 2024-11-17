@@ -62,6 +62,9 @@ This project uses Python to evaluate features that may affect one getting type 2
 `8. Debunking Airline Travel Myths with Different Visualization Forms`\
 This project uses a dashboard, infographic, and executive presentation to show the media audience that airline travel deemed to be unsafe is untrue and the media is spreading false information. Visualizations/graphs were made using Tableau and Canva.
 
+`9. Using Big Data Infrastructures`\
+Multiple assignments using big data infrastructures such as NiFi, Kafka, Spark, HBase, Solr, Hive, and HDFS. Learned how to create custom transformations, use SQL demands, Scala demands, PySpark demands, MapReduce, HBase data manipulation, create HBase tables, and create queries by filters. I also learned how to create producer and consumer tests.
+
 
 ## Contact
 Email: Monica.Santana@disney.com
