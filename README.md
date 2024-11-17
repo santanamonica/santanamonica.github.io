@@ -50,5 +50,10 @@ This project with Python looks at the highest causes of divorce using summary st
 `4. Covid-19 Lockdown and Stress Analysis`\
 Using Python and SQL databases to join 3 different Covid datasets to see if the Covid pandemic provoked more stress with different factors. Factors include working remotely or in person, the number of Covid-19 cases, Covid-19 deaths, and sleep. 
 
+`5. Sentiment-Analysis-Model`\
+Using Python to build a sentiment analysis model using a movie review dataset. Logistic regression and random forest classifier models were used and ROC curves along with precision, recall, and f1-score as metrics to evaluate the data.
+
+
+
 ## Contact
 Email: Monica.Santana@disney.com
