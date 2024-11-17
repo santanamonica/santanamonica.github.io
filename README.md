@@ -57,7 +57,10 @@ Using Python to build a sentiment analysis model using a movie review dataset. L
 This project uses Python and user input of a movie name from the dataset to recommend movies to watch with similarities. It narrowed the recommendations down to movies similar to the user input with over 100 ratings, so the movie watcher is guaranteed to get a highly rated film.
 
 `7. Type 2 Diabetes Predictions Using Machine Learning`\
-This project uses Python to evaluate features that may affect one getting type 2 diabetes and make predictions using logistic and random forest classifier models. Factors include medical and personal demographics of patients, alongside visualization analysis.
+This project uses Python to evaluate features that may affect one getting type 2 diabetes and make predictions using logistic regression and random forest classifier models. Factors include medical and personal demographics of patients, alongside visualization analysis.
+
+`8. Debunking Airline Travel Myths with Different Visualization Forms`\
+This project uses a dashboard, infographic, and executive presentation to show the media audience that airline travel deemed to be unsafe is untrue and the media is spreading false information. Visualizations/graphs were made using Tableau and Canva.
 
 
 ## Contact
