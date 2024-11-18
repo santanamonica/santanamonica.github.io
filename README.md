@@ -6,15 +6,9 @@
 * Data analysis
 * Machine Learning
 * Jupyter Notebook
-* Data visualization
- *Tableau
- *Powerpoint
- *Canva
-* Microsoft Office
-  * Word
-  * Excel
-  * Powerpoint
-* Bilingual - Spanish (Conversational)
+* Data visualization: Tableau, Canva
+* Microsoft Office: Word, Excel, Powerpoint
+* Bilingual - Spanish: Conversational
 
 
 ## Education                                                        	                                       
