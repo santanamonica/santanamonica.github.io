@@ -7,13 +7,13 @@
 * Machine Learning
 * Jupyter Notebook
 * Data visualization
-  ** Tableau
-  ** Powerpoint
-  ** Canva
+ *Tableau
+ *Powerpoint
+ *Canva
 * Microsoft Office
-   * Word
-   * Excel
-   * Powerpoint
+  * Word
+  * Excel
+  * Powerpoint
 * Bilingual - Spanish (Conversational)
 
 
