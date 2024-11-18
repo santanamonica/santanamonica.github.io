@@ -65,10 +65,10 @@ This project uses Python to evaluate features that may affect one getting type 2
 This project uses a dashboard, infographic, and executive presentation to show the media audience that airline travel deemed to be unsafe is untrue and the media is spreading false information. Visualizations/graphs were made using Tableau and Canva.
 
 `9. Using Big Data Infrastructures`\
-Multiple assignments using big data infrastructures such as NiFi, Kafka, Spark, HBase, Solr, Hive, and HDFS. Learned how to create custom transformations, use SQL demands, Scala demands, PySpark demands, MapReduce, HBase data manipulation, create HBase tables, and create queries by filters. I also learned how to create producer and consumer tests.
+Multiple assignments using big data infrastructures such as NiFi, Kafka, Spark, HBase, Solr, Hive, and HDFS. Can create custom transformations, use SQL demands, Scala demands, PySpark demands, MapReduce, HBase data manipulation, create HBase tables, and create queries by filters. Can also create producer and consumer tests.
 
 `10. Stroke Predictions Using Machine Learning`\
-This project uses Python to evaluate risk factors and features used to make predictions if someone will have a stroke or non-stroke outcome. Visualizations are used to create meaningful insights on the top 3 most important features in the dataset.
+This project uses Python to evaluate risk factors and features used to make predictions if someone will have a stroke or non-stroke outcome. Visualizations are used to create meaningful insights for the top 3 most important features in the dataset.
 
 ## Code for projects: 
 https://github.com/santanamonica?tab=repositories
