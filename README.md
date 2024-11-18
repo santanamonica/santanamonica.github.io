@@ -44,10 +44,10 @@ Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp
 This project uses Python and user input of a zip code or city and state name to tell you the weather conditions using an API call from OpenWeatherMap. The weather conditions include temperature, temp high, temp low, pressure, humidity, and cloud conditions. Once the weather conditions are shown, the user will be asked if they would like to enter another zip code or city/state name.
 
 `2. Divorce Rate Analysis with Visualizations`\
-This project using R includes 10 research questions to see what factors contribute to couple divorces the most. It uses simple linear regression and histograms to create insights using the divorce factors. This can help couples who are on the brink of divorce or are going to couple counseling to see what factors may be affecting them. Couples are more likely to get divorced than stay married.
+This project using R includes 10 research questions to see what factors contribute to couple divorces the most. It uses simple linear regression and histograms to create insights using the divorce factors. Couples are more likely to get divorced than stay married.
 
 `3. Divorce Rates Using-Statistical and Regression Analysis`\
-This project with Python looks at the highest causes of divorce using summary statistics, histograms, PMF, CDF, a normal probability plot, scatterplots, correlation tests, and simple linear regression. It can help couples going to marriage counseling with the insights this provides. Marriage is statistically less likely to succeed than divorce, so it is important to be informed before committing to a marriage.
+This project with Python looks at the highest causes of divorce using summary statistics, histograms, PMF, CDF, a normal probability plot, scatterplots, correlation tests, and simple linear regression. It can help couples going to marriage counseling with the insights this provides.
 
 `4. Covid-19 Lockdown and Stress Analysis`\
 Using Python and SQL databases to join 3 different Covid datasets to see if the Covid pandemic provoked more stress with different factors. Factors include working remotely or in person, the number of Covid-19 cases, Covid-19 deaths, and sleep. 
