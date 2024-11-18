@@ -41,8 +41,7 @@ Merchandise &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp
 
 ## Projects
 `1. API Weather Forecast Predictor`\
-This project uses Python and user input of a zip code or city and state name to tell you the weather conditions using an API call from OpenWeatherMap. The weather conditions include temperature, temp high, temp low, pressure, humidity, and cloud conditions. Once the weather conditions are shown, the user will be asked if they would like to enter another zip code or city/state name.
-
+This project uses Python and user input of a zip code or city and state name to tell you the weather conditions using an API call from OpenWeatherMap. The weather conditions include temperature, temp high, temp low, pressure, humidity, and cloud conditions.
 `2. Divorce Rate Analysis with Visualizations`\
 This project using R includes 10 research questions to see what factors contribute to couple divorces the most. It uses simple linear regression and histograms to create insights using the divorce factors. Couples are more likely to get divorced than stay married.
 
